@@ -16,3 +16,6 @@ Once in contact with another piece, it will blow anything on 3X3 radius.
 
 ### Immediate down
 Press 'z' anytime, to get the current falling piece to the bottom.
+
+### Music
+The game has 8-bit style soundtrack.
